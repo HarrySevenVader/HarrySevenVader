@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" width="100%">
+  <img src="./Nitro_Wallpaper_02_3840x2400.jpg" alt="Profile banner" width="100%">
 </p>
 <h2 align="center">Hi, I'm Jarol 👋</h2>
 
