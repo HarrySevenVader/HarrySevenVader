@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannergithub2.png" alt="Profile banner" width="100%">
+  <img src="./bannergithub.png" alt="Profile banner" width="100%">
 </p>
 <h2 align="center">Hi, I'm Jarol 👋</h2>
 
