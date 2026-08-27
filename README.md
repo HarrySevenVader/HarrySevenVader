@@ -1,4 +1,11 @@
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="./banner.png" alt="Profile banner" width="100%">
+</p>
+<h2 align="center">Hi, I'm Jarol 👋</h2>
+
+<p align="center">
+  Data Analyst & Software Developer | Computer Engineering graduate from UTEM
+</p>
 
 ###
 
