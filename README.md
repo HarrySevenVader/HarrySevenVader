@@ -37,4 +37,5 @@
 ![](https://streak-stats.demolab.com/?user=HarrySevenVader&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarrySevenVader&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
