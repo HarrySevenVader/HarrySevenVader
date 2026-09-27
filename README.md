@@ -1,6 +1,17 @@
-# 💫 Sobre mi:
-Ingeniero en Informática orientado a la creación de soluciones tecnológicas que resuelven problemas concretos. Mi trabajo combina análisis, desarrollo, automatización y mejora de procesos, buscando transformar necesidades reales en soluciones funcionales, ordenadas y sostenibles. En este espacio documento proyectos que representan mi aprendizaje y experiencia práctica, desde el tratamiento y análisis de información hasta el desarrollo de aplicaciones y soluciones digitales, priorizando la resolución de problemas, la calidad, la organización y la mejora continua.<br>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🌐 Mis redes:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/55E7k4fCt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vader.x_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jarol-riquelme-santibanez/) 
