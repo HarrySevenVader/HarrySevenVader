@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./bannergithub.png" alt="Profile banner" width="100%">
-</p>
 <h2 align="center">Hi, I'm Harry 👋</h2>
 
 <p align="center">
